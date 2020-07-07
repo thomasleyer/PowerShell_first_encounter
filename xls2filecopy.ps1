@@ -1,3 +1,8 @@
+# Einfach machen, nicht fragen... wenn man diese Variable auf "nuke" setzt
+$nuke = "better not touch"
+
+# Definieren, welche XLS-Datei, wo die Originaldateien liegen und wo die Kopien hin sollen
+$ExcelFile = "C:\Users\Lenovo\Downloads\Thomas.xlsx"
 $FilePathSource = "C:\Users\Lenovo\Downloads\"
 $FilePathDestination = "C:\Users\Lenovo\Downloads\new\"
 
